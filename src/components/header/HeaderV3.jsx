@@ -69,8 +69,8 @@ const HeaderV3 = ({ logoColor = false }) => {
                             <div className="attr-nav">
                                 <ul>
                                     <li className="button">
-                                        <Link to="/contact-us#">Free Sign Up</Link>
-                                        <Link to="/contact-us#">Login</Link>
+                                        <Link to={"https://web-defender-admin.vercel.app/register"}>Free Sign Up</Link>
+                                        <Link to={"https://web-defender-admin.vercel.app"}>Login</Link>
                                     </li>
                                 </ul>
                             </div>

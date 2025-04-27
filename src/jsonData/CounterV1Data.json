@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "end": 500,
+        "end": 16,
         "duration": 4,
-        "operator": "M",
-        "text": "Email Everyday"
+        "operator": "+",
+        "text": "Vulnerabilities Detected By our users across thousands of web apps"
     },
     {
         "id": 2,
-        "end": 340,
+        "end": 6,
         "duration": 4,
-        "operator": "K",
-        "text": "User in 160 countries"
+        "operator": "+",
+        "text": "User in 1 country"
     }
 ]

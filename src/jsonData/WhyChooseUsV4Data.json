@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "listTitle": "Speed Optimization",
-        "listText": "Surrounded sir motionless she end literature. Gay direction neglected but supported yet tech.",
+        "listTitle": "Vulnerability Detection",
+        "listText": "Automatically detect common web vulnerabilities like XSS, SQL Injection, CSRF, and Security Misconfigurations, before attackers do.",
         "listLink": "services-details",
         "listIcon": "fas fa-long-arrow-right",
         "listAnimation": "fadeInLeft",
@@ -10,17 +10,17 @@
     },
     {
         "id": 2,
-        "listTitle": "Keyword Research",
-        "listText": "Surrounded sir motionless she end literature. Gay direction neglected but supported yet tech.",
-        "listLink": "services-details",
+        "listTitle": "Domain & Subdomain Discovery",
+        "listText": "Uncover all your public-facing assets, including forgotten subdomains and endpoints. Map your web attack surface completely.",
+        "listLink": "",
         "listIcon": "fas fa-long-arrow-right",
         "listAnimation": "fadeInLeft",
         "animationDelay": "500ms"
     },
     {
         "id": 3,
-        "listTitle": "Social Media Marketing",
-        "listText": "Surrounded sir motionless she end literature. Gay direction neglected but supported yet tech.",
+        "listTitle": "Real-Time Threat Insights",
+        "listText": "Get actionable insights with clear explanations, risk levels, and suggested remediations. Stay informed, stay ahead.",
         "listLink": "services-details",
         "listIcon": "fas fa-long-arrow-right",
         "listAnimation": "fadeInLeft",

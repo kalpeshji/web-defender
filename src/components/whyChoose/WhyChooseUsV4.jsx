@@ -17,7 +17,7 @@ const WhyChooseUsV4 = () => {
                     <div className="row">
                         <div className="col-lg-7 choose-us-style-one">
                             <h4 className="sub-title">Why Choose Us</h4>
-                            <h2 className="title">Were on a mission <br /> to your business grow</h2>
+                            <h2 className="title">Were on a mission <br /> to safe your web</h2>
                             <div className="choose-us-thumb mt-50 mt-xs-40">
                                 <ReactWOW animation='fadeInUp'>
                                     <img src="/img/illustration/6.png" alt="Image Not Found" />
@@ -34,12 +34,12 @@ const WhyChooseUsV4 = () => {
                             <div className="curve-text">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
                                     <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
-                                    <text><textPath href="#textPath">Award Winning Agency</textPath></text>
+                                    <text><textPath href="#textPath">Vulnerabilities Scanner</textPath></text>
                                 </svg>
-                                <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="95N_spFNEkY" onClose={() => setOpen(false)} />
+                                {/* <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="95N_spFNEkY" onClose={() => setOpen(false)} />
                                 <Link className="popup-youtube" onClick={() => setOpen(true)}>
                                     <i className="fa-solid fa-play"></i>
-                                </Link>
+                                </Link> */}
                             </div>
                             <ul className="feature-process mt-75 mt-xs-0">
                                 {WhyChooseUsV4Data.map(choose =>

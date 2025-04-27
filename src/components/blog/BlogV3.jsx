@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import ReactWOW from "react-wow";
 
@@ -8,6 +9,8 @@ const BlogV3 = () => {
     event.target.reset();
     toast.success("Thanks for Your Email");
   };
+
+  const navigate = useNavigate();
 
   return (
     <>
@@ -38,8 +41,8 @@ const BlogV3 = () => {
                       duration="400ms"
                     >
                       <p>
-                        web-scanner.com helps security teams run the key steps
-                        of a penetration test, easily and without expert hacking
+                        Web Scanner helps security teams run the key steps of a
+                        penetration test, easily and without expert hacking
                         skills.
                       </p>
                     </ReactWOW>
@@ -49,7 +52,9 @@ const BlogV3 = () => {
                       duration="400ms"
                     >
                       <div className="mt-3">
-                        <button type="submit">Get Started</button>
+                        <a href="https://web-defender-admin.vercel.app/">
+                          <button>Get Started</button>
+                        </a>
                       </div>
                     </ReactWOW>
                   </div>

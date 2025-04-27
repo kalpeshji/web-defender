@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Campaign Tools",
-        "textFirst": "Customize templates and create",
-        "textLast": "unique campaigns",
+        "title": "Automated Scanning",
+        "textFirst": "Run fast, reliable scans across websites, apps, and cloud infrastructure. Powered by intelligent automation, no manual recon needed.",
+        "textLast": "",
         "thumb": "11.png"
     },
     {
         "id": 2,
-        "title": "User Communication",
-        "textFirst": "Reach goals on every",
-        "textLast": "communication channel ",
+        "title": "Customizable Reports",
+        "textFirst": "Generate professional-grade vulnerability reports. Tailor your output for developers, management, or compliance teams, in just one click.",
+        "textLast": "",
         "thumb": "12.png"
     }
 ]

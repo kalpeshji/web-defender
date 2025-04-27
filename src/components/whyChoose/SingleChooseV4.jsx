@@ -10,11 +10,11 @@ const SingleChooseV4 = ({ choose }) => {
             <ReactWOW animation={listAnimation} delay={animationDelay}>
                 <li>
                     <div className="info">
-                        <Link to={`/${listLink}#`}>{listTitle}</Link>
+                        <Link>{listTitle}</Link>
                         <p>{listText}</p>
                     </div>
                     <div className="link">
-                        <Link to={`/${listLink}#`}><i className={listIcon}></i></Link>
+                        <Link><i className={listIcon}></i></Link>
                     </div>
                 </li>
             </ReactWOW>
